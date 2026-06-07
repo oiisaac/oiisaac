@@ -1,5 +1,3 @@
 
-hi there
-hi
 GitHub
 
