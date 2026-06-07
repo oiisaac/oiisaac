@@ -1,8 +1,0 @@
-/* Efeito de transição suave no fundo */
-body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
-.hero-gradient {
-    background: linear-gradient(135deg, #3b82f6 0%, #06b6d4 100%);
-}
